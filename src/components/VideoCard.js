@@ -1,4 +1,3 @@
-import React from "react";
 import "./videoCard.css";
 
 const VideoCard = ({ videoDetails, handleSelectVideo }) => {
